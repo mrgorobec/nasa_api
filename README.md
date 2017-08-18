@@ -1,6 +1,6 @@
 ### Status
 
-<>
+[![Build Status](https://travis-ci.org/nashiluduvsudu/nasa_api.svg?branch=master)](https://travis-ci.org/nashiluduvsudu/nasa_api)
 
 # TestRepo
 **It's NASA API images tests.**
